@@ -4,6 +4,7 @@ UAH repo for Software Engineering
 ```
 https://trello.com/b/IqaG67NM
 ```
+[![imagen-2024-02-06-211825998.png](https://i.postimg.cc/Ls5WMtsb/imagen-2024-02-06-211825998.png)](https://postimg.cc/FftpyJ3y)
 ___
 
 > [!WARNING]\

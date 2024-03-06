@@ -1,4 +1,4 @@
-# software Engineering
+# Software Engineering
 UAH repo for Software Engineering 
 ### TRELLO LINK
 ```

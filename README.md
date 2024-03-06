@@ -14,3 +14,11 @@ ___
 - Daniel Eduardo Allo Franco
 - Daniel Colado Antona
 - Alexandra María Raileanu
+
+## Documentation
+
+### Creation of the SRS
+- We are going to use the VSC ( visual studio code ) extension **draw.io** for the diferents diagrams. Extension id: hediet.vscode-drawio
+- The diagrams will be save in **softwareEngineering/documentantion/diagrams**
+___
+More details at the github issues and Trello

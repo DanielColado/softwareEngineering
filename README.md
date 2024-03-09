@@ -20,5 +20,6 @@ ___
 ### Creation of the SRS
 - We are going to use the VSC ( visual studio code ) extension **draw.io** for the diferents diagrams. Extension id: hediet.vscode-drawio
 - The diagrams will be save in **softwareEngineering/doc/diagrams**
+- Use .svg format for the diagrams 🤓
 ___
 More details at the github issues and Trello

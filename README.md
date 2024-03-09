@@ -18,7 +18,7 @@ ___
 ## Documentation
 
 ### Creation of the SRS
-- We are going to use the VSC ( visual studio code ) extension **draw.io** for the diferents diagrams. Extension id: hediet.vscode-drawio
+- We are going to use the VSC ( visual studio code ) extension **draw.io** for the diferents diagrams. Extension id: hediet.vscode-drawio<br>
  [![image.png](https://i.postimg.cc/nh18NRQZ/image.png)](https://postimg.cc/4YnF915F)
 [![image.png](https://i.postimg.cc/7YYSgbMV/image.png)](https://postimg.cc/K4wKbGWk)
 [![image.png](https://i.postimg.cc/c1jdcbfb/image.png)](https://postimg.cc/K4PXGQqP)

@@ -27,3 +27,6 @@ ___
 - Use .svg format for the diagrams 🤓
 ___
 More details at the github issues and Trello
+
+## Testing
+More info will be update

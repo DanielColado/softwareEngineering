@@ -29,4 +29,20 @@ ___
 More details at the github issues and Trello
 
 ## Testing
-More info will be update
+#### We are gonna use *testing* branch
+All tests that could be done on a maven project will be done at ( testing/testingProject )
+![image](https://github.com/DanielColado/softwareEngineering/assets/150476751/47356112-a66d-48ba-b180-381b3b8b6e54)
+
+The project has 2 main directories:
+- /main/src/source for the source code
+- /test Package/source for the jUnit and other tests
+
+Dependencies:
+- The JDK used is the  **JDK 21** ( this version should be installed on your PC )
+- All the jUnit dependencies are already set, the project should use it automaticly
+
+![image](https://github.com/DanielColado/softwareEngineering/assets/150476751/8f9c0873-21cf-4c8c-bccc-12e30991383f)
+
+> [!TIP]\
+> The Factial.java is the main class the class of the funtionality and FactorialTest.java is the actual test. <br>
+> All classes start with capital letter.

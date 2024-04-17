@@ -44,5 +44,5 @@ Dependencies:
 ![image](https://github.com/DanielColado/softwareEngineering/assets/150476751/8f9c0873-21cf-4c8c-bccc-12e30991383f)
 
 > [!TIP]\
-> The Factial.java is the main class the class of the funtionality and FactorialTest.java is the actual test. <br>
+> The Factial.java is the funtionality class and FactorialTest.java is the actual test. <br>
 > All classes start with capital letter.

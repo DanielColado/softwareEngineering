@@ -47,5 +47,5 @@ Dependencies:
 > The Factorial.java is the funtionality class and FactorialTest.java is the actual test. <br>
 > All classes start with capital letter.
 >
-**If you start the assignment and don´t know how to start contact me**
+**If you start the assignment and don´t know how to start contact me** <br>
 Give a star to the project :) 

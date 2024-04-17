@@ -49,4 +49,15 @@ public class FactorialTest {
         assertEquals(expResult, result);
        
     } 
+    @Test
+    public void testFactorialWithNegativeNumber() {
+        System.out.println("testFactorialWithNegativeNumber");
+        int n = -5; // Número negativo
+        Factorial instance = new Factorial();
+        assertThrows(IllegalArgumentException.class, () -> {
+            instance.factorial(n);
+        });
+    }
 }
+    
+

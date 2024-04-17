@@ -48,3 +48,4 @@ Dependencies:
 > All classes start with capital letter.
 >
 **If you start the assignment and don´t know how to start contact me**
+Give a star to the project :) 

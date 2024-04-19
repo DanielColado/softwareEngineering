@@ -9,7 +9,7 @@ package com.mycompany.testingprojectallo;
  * @author Daniel
  */
 public class Fibonacci {
-     public String generateFibonacci(int n) {
+    public String generateFibonacci(int n) throws IllegalArgumentException {
         if (n < 0) {
             throw new IllegalArgumentException("Input cannot be negative");
         }
@@ -32,6 +32,5 @@ public class Fibonacci {
         
         return fibonacciSequence.toString();
     }
-    
-
 }
+

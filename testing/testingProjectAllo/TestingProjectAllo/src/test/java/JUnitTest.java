@@ -16,39 +16,40 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author Daniel
  */
 public class JUnitTest {
-    
+
     public JUnitTest() {
     }
-    
+
     @BeforeAll
     public static void setUpClass() {
     }
-    
+
     @AfterAll
     public static void tearDownClass() {
     }
-    
+
     @BeforeEach
     public void setUp() {
     }
-    
+
     @AfterEach
     public void tearDown() {
     }
-    
+
     @Test
-    public void nEqualsFiveShouldOutput0112358132134(){
+    public void nEquaTenShouldOutput0112358132134() {
         Fibonacci thing = new Fibonacci();
-        String desired ="0 1 1 2 3 5 8 13 21 34 " ;
+        String desired = "0 1 1 2 3 5 8 13 21 34 ";
         var result = thing.generateFibonacci(10);
         assertEquals(desired, result);
     }
-    
+
     @Test
-    public void testFibonacciWithNegativeNumberShouldBeInvalid(){
-    Fibonacci thing = new Fibonacci();        
+    public void testFibonacciWithNegativeNumberShouldBeInvalid() {
+        Fibonacci thing = new Fibonacci();
         assertThrows(IllegalArgumentException.class, () -> {
-            thing.generateFibonacci(-5);});
+            thing.generateFibonacci(-5);
+        });
     }
 
 }

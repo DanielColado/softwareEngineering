@@ -15,9 +15,9 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * @author malve
  */
-public class FactorialTest {
+public class jUnitFactorialTest {
     
-    public FactorialTest() {
+    public jUnitFactorialTest() {
     }
     
     @BeforeAll

@@ -1,9 +1,11 @@
+package source;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
 
-import com.mycompany.testingprojectallo.Fibonacci;
+import source.Fibonacci;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -16,9 +18,9 @@ import org.mockito.junit.jupiter.MockitoExtension;
  * author Daniel
  */
 @ExtendWith(MockitoExtension.class) // Add this annotation to integrate Mockito with JUnit 5
-public class MockitoTest {
+public class MockitoTestFibonacci {
 
-    public MockitoTest() {
+    public MockitoTestFibonacci() {
     }
 
     @BeforeAll

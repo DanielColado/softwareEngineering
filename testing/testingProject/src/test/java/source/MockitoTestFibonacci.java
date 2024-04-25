@@ -5,7 +5,7 @@ package source;
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
 
-import source.Fibonacci;
+import source.MathFuntions;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -40,7 +40,7 @@ public class MockitoTestFibonacci {
     }
 
     @Mock // Use @Mock annotation to create a mock object
-    Fibonacci fibonacciMock;
+    MathFuntions fibonacciMock;
 
     public void mockFibonacciReturnProperSequence() {
         // Stubbing behavior of the mock object

@@ -5,7 +5,7 @@ package source;
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
 
-import source.Fibonacci;
+import source.MathFuntions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeEach;
@@ -40,17 +40,17 @@ public class JUnitTestFibonacciTest {
 
     @Test
     public void nEquaTenShouldOutput0112358132134() {
-        Fibonacci thing = new Fibonacci();
+        MathFuntions instance = new MathFuntions();
         String desired = "0 1 1 2 3 5 8 13 21 34 ";
-        var result = thing.generateFibonacci(10);
+        var result = instance.generateFibonacci(10);
         assertEquals(desired, result);
     }
 
     @Test
     public void testFibonacciWithNegativeNumberShouldBeInvalid() {
-        Fibonacci thing = new Fibonacci();
+        MathFuntions instance = new MathFuntions();
         assertThrows(IllegalArgumentException.class, () -> {
-            thing.generateFibonacci(-5);
+            instance.generateFibonacci(-5);
         });
     }
 

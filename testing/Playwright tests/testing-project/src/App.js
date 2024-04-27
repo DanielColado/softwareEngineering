@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Untitle from "./Untitled.png";
 import './App.css';
 
 function App() {
@@ -6,8 +7,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={Untitle} alt='uahlogo'/>
         <p>
           Tests of <code>playwright</code> for Software Engeniering.
+        </p>
+        <p>
+          Group 1: Daniel Allo, Daniel Colado, Alexandra Raileau
         </p>
       </header>
     </div>

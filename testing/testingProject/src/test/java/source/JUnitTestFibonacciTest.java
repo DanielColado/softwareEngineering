@@ -39,7 +39,7 @@ public class JUnitTestFibonacciTest {
     }
 
     @Test
-    public void nEquaTenShouldOutput0112358132134() {
+    public void nEqualTenShouldOutput0112358132134() {
         MathFuntions instance = new MathFuntions();
         String desired = "0 1 1 2 3 5 8 13 21 34 ";
         var result = instance.generateFibonacci(10);

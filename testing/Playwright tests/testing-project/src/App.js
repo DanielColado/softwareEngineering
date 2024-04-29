@@ -12,7 +12,7 @@ function App() {
           Tests of <code>playwright</code> for Software Engineering.
         </p>
         <p>
-          Group 1: Daniel Allo, Daniel Colado, Alexandra Raileau
+          Group 1: Daniel Allo, Daniel Colado, Alexandra Raileanu
         </p>
       </header>
     </div>

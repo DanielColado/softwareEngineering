@@ -49,3 +49,11 @@ Dependencies:
 >
 **If you start the assignment and don´t know how to start contact me** <br>
 Give a star to the project :) 
+___
+
+### Playwright project
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/9bab4797-fd0d-46f4-b424-458b03d8bf96)
+
+- Main page app.js
+- Main tests tests.spec.js
+

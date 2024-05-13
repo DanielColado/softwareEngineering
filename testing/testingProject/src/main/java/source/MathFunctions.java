@@ -1,6 +1,6 @@
 package source;
 
-public class MathFuntions {
+public class MathFunctions {
 
     public int countPartitions(int n) {
         int[] dp = new int[n + 1];

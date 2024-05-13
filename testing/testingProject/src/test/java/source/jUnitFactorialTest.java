@@ -43,7 +43,7 @@ public class jUnitFactorialTest {
     public void testFactorial() {
         System.out.println("factorial");
         int n = 5;
-        MathFuntions instance = new MathFuntions();
+        MathFunctions instance = new MathFunctions();
         int expResult = 120;
         int result = instance.factorial(n);
         assertEquals(expResult, result);
@@ -53,7 +53,7 @@ public class jUnitFactorialTest {
     public void testFactorial2() {
         System.out.println("factorial2");
         int n = 10;
-        MathFuntions instance = new MathFuntions();
+        MathFunctions instance = new MathFunctions();
         int expResult = 3628800;
         int result = instance.factorial(n);
         assertEquals(expResult, result);
@@ -62,7 +62,7 @@ public class jUnitFactorialTest {
     public void testFactorialWithNegativeNumber() {
         System.out.println("testFactorialWithNegativeNumber");
         int n = -5; // Número negativo
-        MathFuntions instance = new MathFuntions();
+        MathFunctions instance = new MathFunctions();
         assertThrows(IllegalArgumentException.class, () -> {
             instance.factorial(n);
         });

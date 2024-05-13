@@ -32,7 +32,7 @@ public class jUnitCountPartitions {
 
     @Test
     public void testCountPartitions() {
-        MathFuntions instance = new MathFuntions();
+        MathFunctions instance = new MathFunctions();
         assertEquals(1, instance.countPartitions(1));
         assertEquals(2, instance.countPartitions(2));
         assertEquals(3, instance.countPartitions(3));

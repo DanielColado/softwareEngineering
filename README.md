@@ -51,7 +51,6 @@ The project has 2 main directories:
 Dependencies:
 - The JDK used is the  **JDK 21** 
 - All the jUnit dependencies are already set, the project should use it automaticly
-<br>
 
 All tests can be executed by running the tests source directory. 
 <br>

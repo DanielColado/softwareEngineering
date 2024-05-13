@@ -38,13 +38,38 @@ For the second assignment, everything is located within the directory "/testing,
 - **/testingProject** is the maven project with the jUnit tests and Mockito test
 - **/Playwright tests/testing-project** contains the React app and the Playwright testing
 
+
 #### /testingProject
-This project contains 3 jUnit tests and a mockito test for the class MathFunctions
+This project contains 3 jUnit tests and a mockito test for the class MathFunctions <br>
 
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/e9a2cf36-fa41-4e1e-b1cb-559a5d38e0ee)
 
+The project has 2 main directories:
+- **/src/main/java/source** for the source code       ( 🟦 directory ) 
+- **/test/java/source** for the jUnit and other tests ( 🟩 directory )
 
+Dependencies:
+- The JDK used is the  **JDK 21** 
+- All the jUnit dependencies are already set, the project should use it automaticly
+<br>
 
+All tests can be executed by running the tests source directory. 
+<br>
+<br>
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/5ccc91c1-5774-4ce4-a834-880dbdbb8e73)
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/5c8efbd1-a00f-45f2-acd5-28237e1fa675)
+<br>
 
+And the output should be: 
+<br>
+<br>
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/b6a240b5-0860-4971-9949-c60dfd607458)
+<br>
+All tests pass successfully.
+
+___
+
+#### /Playwright tests/testing-project
 
 
 

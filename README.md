@@ -7,7 +7,7 @@ UAH repo for Software Engineering
 - Alexandra María Raileanu
 ___
 
-### Assignment 1: DOCUMENTATION
+### Assignment 1: DOCUMENTATION 📓
 The final SRS file is on **documentation/SRS.pdf** 
 <br>
 <br>
@@ -28,4 +28,25 @@ The other directory ( SRS util ) contenins the images and other unfinished versi
 The SRS release contais the SRS commit used for the submision.
 
 ___
-### Assignment 2: TESTING
+### Assignment 2: TESTING 🧪
+For the second assignment, everything is located within the directory "/testing," which has 2 subdirectories.
+<br>
+<br>
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/dc95f959-ff2e-4c17-bc59-8c3ed87088d2)   
+
+
+- **/testingProject** is the maven project with the jUnit tests and Mockito test
+- **/Playwright tests/testing-project** contains the React app and the Playwright testing
+
+
+
+
+
+
+
+
+
+
+
+
+

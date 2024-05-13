@@ -38,6 +38,8 @@ For the second assignment, everything is located within the directory "/testing,
 - **/testingProject** is the maven project with the jUnit tests and Mockito test
 - **/Playwright tests/testing-project** contains the React app and the Playwright testing
 
+#### /testingProject
+This project contains 3 jUnit tests and a mockito test for the class MathFunctions
 
 
 

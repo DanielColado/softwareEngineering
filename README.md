@@ -64,8 +64,9 @@ And the output should be:
 <br>
 ![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/b6a240b5-0860-4971-9949-c60dfd607458)
 <br>
-All tests pass successfully.
-
+All tests pass successfully.<br>
+> [!NOTE]\
+> The statistics are also found in statistics.xlsx.
 ___
 
 #### /Playwright tests/testing-project

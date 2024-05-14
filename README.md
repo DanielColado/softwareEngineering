@@ -70,9 +70,22 @@ ___
 
 #### /Playwright tests/testing-project
 
+In the case of the Playwright tests, we have deployed an application using React and the Playwright framework itself.
 
+- React
+    ```
+    https://github.com/facebook/create-react-app
+  ```
+- Playwright
+  ``` 
+    npm init playwright@latest
+  ```
+We have used NodeJS for dependency and package management
 
-
+- NodeJS
+  ```
+    https://nodejs.org/en
+  ```
 
 
 

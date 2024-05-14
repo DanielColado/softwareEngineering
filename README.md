@@ -87,5 +87,12 @@ We have used NodeJS for dependency and package management
     https://nodejs.org/en
   ```
 
+The React project has the following structure
+
+![image](https://github.com/DanielColado/softwareEngineering/assets/150476751/68c6e99e-a0a4-45c5-b98e-bde780506bf3)
+<br>
+The important components for this practice are the application itself and the file that contains the tests
+- App.js for the source code of the page      ( 🟦 file ) 
+- 
 
 

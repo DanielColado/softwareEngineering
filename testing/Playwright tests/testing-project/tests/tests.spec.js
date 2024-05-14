@@ -10,8 +10,7 @@ test('has title', async ({ page }) => {
 
 test('get uah img', async ({ page }) => {
     await page.goto('http://localhost:3000/');
-
-    // Click the get started link.
+    // Expect "to contain" an img.
     await page.getByRole('img', { name: 'uahlogo' });
 });
 

@@ -114,7 +114,7 @@ After that, we can deploy the application using npm:
 ![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/6ac9bf3b-19c7-44be-844e-de6fee774a2c) <br>
 
 At this point, the application has been deployed and is running on our machine on port 3000 (in this case):
-
+<br>
 ![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/014117ef-0ccf-4b73-8f6d-10d6ffeaa8ce)
 <br>
 <br>
@@ -123,7 +123,8 @@ Next, we need to install the Playwright dependencies, which consist of several l
     npx playwright install
 ```
 
-Now we can run the Playwright tests using the console or by executing the test file. <br>
+Now we can run the Playwright tests using the console or by executing the test file. 
+<br>
 ![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/e3807b24-bc7c-4eec-b88e-cd366c5ee474) <br>
 <br>
 <br>

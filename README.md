@@ -153,7 +153,7 @@ Both are asynchronous functions that use the Playwright library:
             await page.goto('http://localhost:3000/');
             // Expect "to contain" an img.
             await page.getByRole('img', { name: 'uahlogo' });
-              });
+        });
   ```
 
 Both tests pass successfully, but if that were not the case, Playwright provides error information in its report.

@@ -155,8 +155,15 @@ Both are asynchronous functions that use the Playwright library:
             await page.getByRole('img', { name: 'uahlogo' });
         });
   ```
-
+<br>
+<br>
+<br>
 Both tests pass successfully, but if that were not the case, Playwright provides error information in its report.
+<br>
+<br>
+
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/89c4a6d6-de51-44fc-a36f-6bc989dc801b)
+![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/0e18b91d-ae5d-41d6-b815-e6f126b601ce)
 
 
 

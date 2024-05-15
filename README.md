@@ -24,8 +24,8 @@ Extension id: hediet.vscode-drawio <br><br>
 
 
 
-The other directory ( SRS util ) contenins the images and other unfinished versions of the SRS. <br>
-The SRS release contais the SRS commit used for the submision.
+The other directory ( SRS util ) contains the images and other unfinished versions of the SRS. <br>
+The SRS´s release contains the SRS commit used for the submissions.
 
 ___
 ### Assignment 2: TESTING 🧪
@@ -40,7 +40,7 @@ For the second assignment, everything is located within the directory "/testing,
 
 
 #### /testingProject
-This project contains 3 jUnit tests and a mockito test for the class MathFunctions <br>
+This project contains 3 jUnit tests and a Mockito test for the class MathFunctions <br>
 
 ![imagen](https://github.com/DanielColado/softwareEngineering/assets/150476751/e9a2cf36-fa41-4e1e-b1cb-559a5d38e0ee)
 
